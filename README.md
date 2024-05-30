@@ -13,6 +13,8 @@ The churn analysis project aims to predict whether or not customers will leave a
   - TensorFlow;
   - Keras.
 
+NOTE: The dataset used was obtained from ***https://www.kaggle.com/*** .
+
 
 ## Author
 
