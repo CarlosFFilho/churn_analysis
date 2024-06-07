@@ -7,7 +7,6 @@ The churn analysis project aims to predict whether or not customers will leave a
 ## Technologies used
 
   - BorutaPy;
-  - Keras;
   - Matplotlib;
   - Pandas;
   - Python;
