@@ -15,6 +15,7 @@ The churn analysis project aims to predict whether or not customers will leave a
   - Python;
   - Scikit-learn;
   - Scipy;
+  - Seaborn;
   - TensorFlow.
 
 NOTE: The dataset used was obtained from ***https://www.kaggle.com/*** .
